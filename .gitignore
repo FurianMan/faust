@@ -4,6 +4,9 @@
 #IDEA
 *.idea
 
+#Gradle
+*.gradle
+
 # Log file
 *.log
 
